@@ -1,4 +1,3 @@
-layout_spectrum: 0.9272091479506344
 typography_spectrum: 0.47739027603529394
 color:
   brandStrength: 0.5332248327322304
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-name: B smart living
+layout_spectrum: 0.9272091479506344
+name: intro
+title: B
